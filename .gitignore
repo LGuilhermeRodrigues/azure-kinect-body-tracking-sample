@@ -8,6 +8,9 @@ UserSettings
 Temp
 obj
 
-Assets/Plugins
+Assets/Plugins/*
 
 Packages
+
+*.dll
+*.onnx

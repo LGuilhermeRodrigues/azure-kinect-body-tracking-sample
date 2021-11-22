@@ -6,6 +6,7 @@ Major changes:
 - Files to be moved (I think cufft64_10.dll is missing in the official repository)
 - Default TrackerProcessingMode is set Cpu, if you have a GPU, please change in SkeletalTrackingProvider.cs line 46
 - I am working in a new scene with another avatar
+- .gitignore
 
 ### Directions for getting started:
 
