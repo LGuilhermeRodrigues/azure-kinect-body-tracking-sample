@@ -35,7 +35,7 @@ public class SkeletalTrackingProvider : BackgroundDataProvider
                 {
                     CameraFPS = FPS.FPS30,
                     ColorResolution = ColorResolution.Off,
-                    DepthMode = DepthMode.NFOV_Unbinned,
+                    DepthMode = DepthMode.WFOV_2x2Binned,
                     WiredSyncMode = WiredSyncMode.Standalone,
                 });
 
